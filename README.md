@@ -1,7 +1,12 @@
 # massiveMIMO
 
-Performance Evaluation of Massive MIMO systems, in link level simulations.
-SINR and Sum Rate computations of MAssive MIMO systems.
-Number of antennas > 100
-Channel Model used: Quadriga (3D SCME Channel model)
-Channel Estimation: Sparse Regularization based estimation Algorithms using Compressed Sensing.
+Channel Estimation of Massive MIMO systems based on Compressive Sensing techniques.
+
+Implementation of the paper: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6555020
+
+Channel Estimation based on compressive sensing by formulating a Sparse Signal Model
+
+
+Note:
+I do not hold any liability to the code, or the reference, it is just out of a college project and curiousity creating this repository. Kindly inform me on any changes.
